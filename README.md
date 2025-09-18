@@ -24,6 +24,7 @@ We are aware of the controversy around IGN reviews, and have considered using ot
 Some reviews may be very large and exceed our context limit for the LLM; in such a case, we will be using an LLM to either
 * summarize the review
 * inform the LLM in chunks
+
 The latter is not preferred as the overall history may still exceed context limits.
 
 # License
