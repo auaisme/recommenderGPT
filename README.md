@@ -15,7 +15,7 @@ Claude and Gemini performed far below par.
 # Limitations
 Due to the nature of ML/DL, our LLM's comparison is not definitive, and there are possibilities of hallucinations.
 Sometimes, despite having the appropriate context, the system may say that comparison isn't possible.
-However, with Deepseek, this later issue has not yet occurred, and it has a decently high consistency in between responses.
+However, with Deepseek, this later issue has not yet occurred, and it has a decently high consistency between responses.
 
 # Reviews
 We are using IGN's reviews to inform our comparison.
