@@ -32,7 +32,7 @@ Exclusive Software License and Intellectual Property Notice
 Copyright © 2025 CE Ali Usman. All Rights Reserved.
 
 1. Ownership
-All software, source code, object code, documentation, algorithms, designs, and related materials (collectively, the “Software” or "System" or "Algorithm") are the exclusive intellectual property of Ali Usman.
+All software, source code, object code, documentation, algorithms, designs, and related materials (collectively, the “Software” or "System" or "Algorithm") are the exclusive intellectual property of Ali Usman ("Owner").
 
 2. Restrictions on Use
 No individual, entity, or organization may copy, modify, distribute, sublicense, reverse engineer, decompile, disassemble, or otherwise use the Software in any manner without the prior explicit written permission of the Owner.
