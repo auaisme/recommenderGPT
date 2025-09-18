@@ -27,6 +27,43 @@ Some reviews may be very large and exceed our context limit for the LLM; in such
 
 The latter is not preferred as the overall history may still exceed context limits.
 
+# Sample Comparison
+The following sample comparison was made using no summarization and Deepseek's v3 LLM.
+
+[Red Dead Redemption 2 v Undertale]
+
+Score: 10/100
+
+Reasoning: The games are fundamentally opposed in design philosophy, with Red Dead Redemption 2 being a massive, realistic open-world focused on immersion and a linear narrative, while Undertale is a small, meta-narrative RPG that subverts player expectations and integrates its mechanics directly into its storytelling. Their mechanics and target audiences share almost no overlap, making them vastly dissimilar experiences.
+
+
+[Red Dead Redemption 2 v Cyberpunk 2077]
+
+Score: 35/100
+
+Reasoning: While both are highly detailed, narrative-driven open-world games, their design philosophies, mechanics, and target audiences differ significantly. Red Dead Redemption 2 emphasizes a slow-paced, immersive simulation of a historical period with deliberate, grounded mechanics, whereas Cyberpunk 2077 is a faster-paced, choice-driven RPG focused on futuristic action and player agency in a dense, vertical cityscape.
+
+
+[Red Dead Redemption 2 v Grand Theft Auto V]
+
+Score: 75
+
+Reasoning: Both games share Rockstar's core open-world design philosophy of creating dense, living worlds and a mission-based structure, with similar core mechanics for combat, driving/riding, and interaction. However, RDR2's deliberate, slower pace, greater emphasis on realism and immersion, and its serious Western tone versus GTA V's satirical, modern commentary mark significant philosophical and mechanical differences, while their mature target audiences are nearly identical.
+
+
+[Red Dead Redemption 2 v Grand Theft Auto IV]
+
+Score: 75/100
+
+Reasoning: Both games share Rockstar's core design philosophy of creating immersive, narrative-driven open worlds with realistic mechanics and a mature tone, targeting a similar adult audience. However, RDR2's slower, more deliberate pace, emphasis on survival mechanics, and unique Western setting differentiate it significantly from GTA IV's urban crime focus.
+
+
+[Red Dead Redemption 2 v Red Dead Redemption]
+
+Score: 85/100
+
+Reasoning: Both games share Rockstar's core open-world design philosophy, mechanics like Dead Eye and bounty hunting, and target the same mature audience. However, RDR2's design is more deliberate and immersive, with slower-paced mechanics and a greater emphasis on a living world, making it a deeper but not identical evolution of its predecessor's philosophy.
+
 # License
 Exclusive Software License and Intellectual Property Notice
 
