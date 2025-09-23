@@ -1,12 +1,12 @@
 # ------------------------------------------------- API  KEY ------------------------------------------------- 
 # 
-# open router (Demo API for Recommendor): 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
+# open router (Demo API for Recommendor): 
 # 
 # ------------------------------------------------- API  KEY -------------------------------------------------
 
 import requests, difflib, json, os
 
-API_KEY = "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"  # <-- paste your OpenRouter API key here
+API_KEY = ""  # <-- paste your OpenRouter API key here
 
 def load_reviews(input_file):
     print("\nLoading reviews from local storage")
@@ -138,7 +138,7 @@ from langchain_openai import OpenAI
 from langchain.chat_models import init_chat_model
 from langchain import hub
 
-API2 = os.environ["OPENAI_API_KEY"] = "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"
+API2 = os.environ["OPENAI_API_KEY"] = ""
 os.environ["OPENAI_BASE_URL"] = "https://openrouter.ai/api/v1"
 
 models = {
