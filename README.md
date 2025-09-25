@@ -64,6 +64,11 @@ Score: 85/100
 
 Reasoning: Both games share Rockstar's core open-world design philosophy, mechanics like Dead Eye and bounty hunting, and target the same mature audience. However, RDR2's design is more deliberate and immersive, with slower-paced mechanics and a greater emphasis on a living world, making it a deeper but not identical evolution of its predecessor's philosophy.
 
+# Steam API
+We will be building our games database using Steam's database.
+List all apps: https://api.steampowered.com/ISteamApps/GetAppList/v2/
+Get details about specific app: https://store.steampowered.com/api/appdetails?appids=PUT_YOUR_APP_ID_HERE
+
 # License
 Exclusive Software License and Intellectual Property Notice
 
