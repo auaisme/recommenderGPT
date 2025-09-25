@@ -68,6 +68,7 @@ Reasoning: Both games share Rockstar's core open-world design philosophy, mechan
 We will be building our games database using Steam's database.
 List all apps: https://api.steampowered.com/ISteamApps/GetAppList/v2/
 Get details about specific app: https://store.steampowered.com/api/appdetails?appids=PUT_YOUR_APP_ID_HERE
+Web Page from where you can scrape all tags: https://store.steampowered.com/tag/browse/#global_492
 
 # License
 Exclusive Software License and Intellectual Property Notice
