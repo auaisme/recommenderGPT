@@ -64,6 +64,38 @@ Score: 85/100
 
 Reasoning: Both games share Rockstar's core open-world design philosophy, mechanics like Dead Eye and bounty hunting, and target the same mature audience. However, RDR2's design is more deliberate and immersive, with slower-paced mechanics and a greater emphasis on a living world, making it a deeper but not identical evolution of its predecessor's philosophy.
 
+
+### Undertale v Deltarune
+
+Score: 85/100
+Reasoning: Both games share a core design philosophy of subverting RPG expectations, integrating narrative with unique combat mechanics (like ACTing and dodging), and targeting an audience that appreciates meta-commentary and heartfelt, humorous writing. However, Deltarune expands on these ideas with a multi-chapter structure, a party-based system, and a new setting, making it a distinct evolution rather than a direct copy.
+
+
+### Undertale v Cyberpunk 2077
+
+Score: 15/100
+
+Reasoning: While both are RPGs that value player choice, their core design philosophies are opposites. Undertale is a tightly crafted, meta-narrative that subverts RPG conventions to deliver a personal, morality-driven story, whereas Cyberpunk 2077 is a massive, open-world experience focused on player freedom and a dense, reactive city. Their mechanics, scale, and target audiences are vastly different.
+
+
+### Undertale v Grand Theft Auto V
+
+Score: 10/100
+Reasoning: The games are fundamentally opposed in design philosophy and mechanics. Undertale is a meta-narrative RPG focused on player choice and morality with turn-based combat, while GTA V is a satirical open-world action game focused on freedom, chaos, and realistic scale. Their target audiences and core purposes are entirely different.
+
+
+### Undertale v Grand Theft Auto IV
+
+Score: 10/100
+Reasoning: The games are fundamentally opposed in design philosophy, with Undertale being a meta-narrative RPG that subverts player expectations and integrates morality into its core mechanics, while GTA IV is a realistic open-world crime simulator focused on immersive storytelling and action. Their mechanics, from combat to world interaction, and their target audiences are vastly different.
+
+
+### Undertale v Red Dead Redemption
+
+Score: 10/100
+
+Reasoning: The games are fundamentally dissimilar in philosophy and mechanics. Undertale is a meta-narrative RPG that subverts player expectations and integrates its mechanics directly into its storytelling, while Red Dead Redemption is a vast, open-world sandbox focused on immersive simulation and player freedom within a realistic setting. Their target audiences and core design goals are entirely different.
+
 # Steam API
 We will be building our games database using Steam's database.
 
