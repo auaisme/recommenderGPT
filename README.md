@@ -19,7 +19,7 @@ However, with Deepseek, this later issue has not yet occurred, and it has a dece
 
 # Reviews
 We are using IGN's reviews to inform our comparison.
-We don't care if they reviewer liked the game or not, we only care how similar the games' mechanics and feel are.
+We don't care if the reviewer liked the game or not, we only care how similar the games' mechanics and feel are.
 We are aware of the controversy around IGN reviews, and have considered using other sources, including YouTube reviews, to inform our LLM.
 Some reviews may be very large and exceed our context limit for the LLM; in such a case, we will be using an LLM to either
 * summarize the review
